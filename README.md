@@ -1,6 +1,6 @@
 # 🧱 Solana‑Py (Python Bitcoin Simulator)
 
-Simulation of a simplified Bitcoin-like network implemented in Python using UTXO model, P2P messaging, mining, and consensus mechanisms.
+Simulation of a simplified Solana-like network implemented in Python using UTXO model, P2P messaging, mining, and consensus mechanisms.
 
 ---
 
